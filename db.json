@@ -1,35 +1,35 @@
 [
         {
-          id: 5928101,
-          category: 'animal welfare',
-          title: 'Cat Adoption Day',
-          description: 'Find you new Feline friend at this event.',
-          location: 'Meow Town',
-          date: 'January 28, 2022',
-          time: '12:00',
-          petsAllowed: true,
-          organizers: 'Kat Laydee'
+          "id": 5928101,
+          "category": 'animal welfare',
+          "title": 'Cat Adoption Day',
+          "description": 'Find you new Feline friend at this event.',
+          "location": 'Meow Town',
+          "date": 'January 28, 2022',
+          "time": '12:00',
+          "petsAllowed": true,
+          "organizers": 'Kat Laydee'
         },
         {
-          id: 5928102,
-          category: 'animal welfare',
-          title: 'Dog Adoption Day',
-          description: 'Find you new canine friend at this event.',
-          location: 'Bark Town',
-          date: 'January 29, 2022',
-          time: '12:00',
-          petsAllowed: true,
-          organizers: 'Dog Dude'
+          "id": 5928102,
+          "category": 'animal welfare',
+          "title": 'Dog Adoption Day',
+          "description": 'Find you new canine friend at this event.',
+          "location": 'Bark Town',
+          "date": 'January 29, 2022',
+          "time": '12:00',
+          "petsAllowed": true,
+          "organizers": 'Dog Dude'
         },
         {
-          id: 5928103,
-          category: 'animal welfare',
-          title: 'Turtle Adoption Day',
-          description: 'Find you new reptile friend at this event.',
-          location: 'Slow Town',
-          date: 'January 30, 2022',
-          time: '12:00',
-          petsAllowed: false,
-          organizers: 'Turtle Hare'
+          "id": 5928103,
+          "category": 'animal welfare',
+          "title": 'Turtle Adoption Day',
+          "description": 'Find you new reptile friend at this event.',
+          "location": 'Slow Town',
+          "date": 'January 30, 2022',
+          "time": '12:00',
+          "petsAllowed": false,
+          "organizers": 'Turtle Hare'
         }
 ]
